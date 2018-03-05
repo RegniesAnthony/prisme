@@ -1,0 +1,60 @@
+﻿
+Interlocuteur : Anthony
+dernier message : 04/03/2018 18:05
+est un robot : false
+dernier sujet(s) : estUneQuestion 
+requete(s) du dernier message : aucune
+affinité : 23
+nom : inconnu
+prénom : inconnu
+âge : inconnu
+ville : inconnu
+---------------------------
+
+Interlocuteur : Siti2908
+dernier message : 21/02/2018 21:48
+est un robot : false
+dernier sujet(s) : bienvenu
+requete(s) du dernier message : inconnu
+affinité : 0
+nom : inconnu
+prénom : inconnu
+âge : inconnu
+ville : inconnu
+---------------------------
+
+Interlocuteur : clemclo91
+dernier message : 21/02/2018 22:01
+est un robot : false
+dernier sujet(s) : bienvenu
+requete(s) du dernier message : inconnu
+affinité : 0
+nom : inconnu
+prénom : inconnu
+âge : inconnu
+ville : inconnu
+---------------------------
+
+Interlocuteur : pierre
+dernier message : 21/02/2018 23:15
+est un robot : false
+dernier sujet(s) : bienvenu
+requete(s) du dernier message : inconnu
+affinité : 0
+nom : inconnu
+prénom : inconnu
+âge : inconnu
+ville : inconnu
+---------------------------
+
+Interlocuteur : Dorian
+dernier message : 22/02/2018 19:15
+est un robot : false
+dernier sujet(s) : inconnu
+requete(s) du dernier message : aucune
+affinité : 0
+nom : inconnu
+prénom : inconnu
+âge : inconnu
+ville : inconnu
+---------------------------
