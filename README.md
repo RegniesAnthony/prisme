@@ -1,2 +1,0 @@
-# prisme
-bot discord
